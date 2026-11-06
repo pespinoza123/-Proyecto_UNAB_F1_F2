@@ -1,0 +1,13 @@
+{
+  "originales": 161,
+  "duplicados_exactos": 1,
+  "rechazados": 4,
+  "aceptados": 156,
+  "tiempos_faltantes_aceptados": 1,
+  "motivos": {
+    "fecha_invalida": 1,
+    "tecnologia_invalida": 2,
+    "tiempo_negativo": 1,
+    "id_duplicado": 0
+  }
+}

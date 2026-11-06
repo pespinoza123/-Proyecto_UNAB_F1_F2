@@ -1,0 +1,5 @@
+ID_registro,Fecha,Equipo,Tecnologia,Tipo_falla,Tiempo_reparacion_h,Estado,Motivos
+21,,CEX-18,iTrack II,Sensor,3.61,Operativo,fecha_invalida
+158,2026-02-10,CEX-21,,Sensor,2.0,Operativo,tecnologia_invalida
+159,2026-02-11,CEX-35,Optalert,Sensor,-2.0,Operativo,tiempo_negativo
+160,2026-02-12,CEX-42,,Sensor,1.0,Operativo,tecnologia_invalida

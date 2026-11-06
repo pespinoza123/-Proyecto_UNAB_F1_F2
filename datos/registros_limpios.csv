@@ -1,0 +1,157 @@
+ID_registro,Fecha,Equipo,Tecnologia,Tipo_falla,Tiempo_reparacion_h,Estado,Mes,Tiempo_reparacion_min
+1,2026-01-09,CEX-18,iTrack II,Sensor,5.22,Operativo,2026-01,313.2
+2,2026-01-08,CEX-18,CAS-GPS,Comunicacion,5.87,Operativo,2026-01,352.2
+3,2026-03-08,CEX-18,iTrack II,Alimentacion,1.2,Operativo,2026-03,72.0
+4,2026-03-17,CEX-42,iTrack II,Sensor,5.6,Operativo,2026-03,336.0
+5,2026-03-12,CEX-18,Optalert,Alimentacion,2.94,Operativo,2026-03,176.4
+6,2026-02-10,CEX-35,CAS-GPS,Conexion,0.85,Operativo,2026-02,51.0
+7,2026-03-19,CEX-53,Optalert,Conexion,4.67,Operativo,2026-03,280.2
+8,2026-03-05,CEX-35,CAS-GPS,Alimentacion,5.41,Operativo,2026-03,324.6
+9,2026-03-03,CEX-18,LTE/WiFi,Comunicacion,3.07,Operativo,2026-03,184.2
+10,2026-02-14,CEX-21,iTrack II,Comunicacion,4.26,Operativo,2026-02,255.6
+11,2026-03-25,CEX-18,Optalert,Alimentacion,2.29,Operativo,2026-03,137.4
+12,2026-03-23,CEX-35,CAS-GPS,Sensor,1.54,Operativo,2026-03,92.4
+13,2026-02-11,CEX-21,iTrack II,Sensor,1.75,Operativo,2026-02,105.0
+14,2026-02-20,CEX-18,LTE/WiFi,Sensor,5.08,Operativo,2026-02,304.8
+15,2026-02-26,CEX-18,CAS-GPS,Sensor,5.08,Operativo,2026-02,304.8
+16,2026-02-09,CEX-53,LTE/WiFi,Sensor,,Operativo,2026-02,
+17,2026-01-22,CEX-18,iTrack II,Comunicacion,1.6,Operativo,2026-01,96.0
+18,2026-03-14,CEX-21,LTE/WiFi,Alimentacion,4.16,Operativo,2026-03,249.60000000000002
+19,2026-02-12,CEX-18,Optalert,Alimentacion,3.02,Operativo,2026-02,181.2
+20,2026-02-15,CEX-42,CAS-GPS,Comunicacion,1.13,Operativo,2026-02,67.8
+22,2026-01-08,CEX-18,iTrack II,Conexion,3.54,Operativo,2026-01,212.4
+23,2026-01-09,CEX-42,LTE/WiFi,Sensor,0.67,Operativo,2026-01,40.2
+24,2026-02-01,CEX-42,LTE/WiFi,Comunicacion,2.75,Operativo,2026-02,165.0
+25,2026-03-31,CEX-53,CAS-GPS,Comunicacion,0.82,Operativo,2026-03,49.199999999999996
+26,2026-03-19,CEX-35,LTE/WiFi,Sensor,4.14,Operativo,2026-03,248.39999999999998
+27,2026-01-12,CEX-42,iTrack II,Alimentacion,4.15,Operativo,2026-01,249.00000000000003
+28,2026-02-06,CEX-42,Optalert,Alimentacion,1.42,Operativo,2026-02,85.19999999999999
+29,2026-01-31,CEX-21,CAS-GPS,Comunicacion,4.47,Operativo,2026-01,268.2
+30,2026-03-04,CEX-42,iTrack II,Comunicacion,3.26,Operativo,2026-03,195.6
+31,2026-03-26,CEX-21,Optalert,Conexion,2.95,Operativo,2026-03,177.0
+32,2026-01-15,CEX-35,CAS-GPS,Sensor,3.97,Operativo,2026-01,238.20000000000002
+33,2026-02-24,CEX-35,LTE/WiFi,Comunicacion,1.15,Operativo,2026-02,69.0
+34,2026-01-31,CEX-53,Optalert,Alimentacion,4.35,Operativo,2026-01,261.0
+35,2026-02-11,CEX-35,LTE/WiFi,Alimentacion,4.78,Operativo,2026-02,286.8
+36,2026-01-24,CEX-18,LTE/WiFi,Sensor,2.0,Operativo,2026-01,120.0
+37,2026-01-08,CEX-21,Optalert,Alimentacion,3.01,Operativo,2026-01,180.6
+38,2026-03-05,CEX-35,iTrack II,Sensor,3.69,Operativo,2026-03,221.4
+39,2026-02-19,CEX-21,Optalert,Alimentacion,4.67,Operativo,2026-02,280.2
+40,2026-02-14,CEX-18,iTrack II,Sensor,3.95,Operativo,2026-02,237.0
+41,2026-01-13,CEX-42,CAS-GPS,Conexion,0.96,Operativo,2026-01,57.599999999999994
+42,2026-03-10,CEX-42,LTE/WiFi,Comunicacion,3.22,Operativo,2026-03,193.20000000000002
+43,2026-01-17,CEX-35,iTrack II,Comunicacion,1.07,Operativo,2026-01,64.2
+44,2026-01-16,CEX-42,LTE/WiFi,Comunicacion,5.59,Operativo,2026-01,335.4
+45,2026-03-31,CEX-42,Optalert,Sensor,3.75,Operativo,2026-03,225.0
+46,2026-01-27,CEX-21,CAS-GPS,Alimentacion,3.15,Operativo,2026-01,189.0
+47,2026-02-12,CEX-18,CAS-GPS,Comunicacion,3.18,Operativo,2026-02,190.8
+48,2026-03-02,CEX-42,Optalert,Alimentacion,3.64,Operativo,2026-03,218.4
+49,2026-02-18,CEX-42,LTE/WiFi,Sensor,2.32,Operativo,2026-02,139.2
+50,2026-02-19,CEX-42,LTE/WiFi,Sensor,0.62,Operativo,2026-02,37.2
+51,2026-02-02,CEX-53,CAS-GPS,Alimentacion,1.27,Operativo,2026-02,76.2
+52,2026-01-28,CEX-42,Optalert,Comunicacion,4.2,Operativo,2026-01,252.0
+53,2026-01-11,CEX-35,CAS-GPS,Conexion,4.5,Operativo,2026-01,270.0
+54,2026-03-26,CEX-18,Optalert,Comunicacion,5.54,Operativo,2026-03,332.4
+55,2026-03-29,CEX-35,CAS-GPS,Comunicacion,3.55,Operativo,2026-03,213.0
+56,2026-02-19,CEX-35,Optalert,Alimentacion,4.95,Operativo,2026-02,297.0
+57,2026-03-28,CEX-35,CAS-GPS,Alimentacion,2.1,Operativo,2026-03,126.0
+58,2026-02-25,CEX-42,LTE/WiFi,Sensor,5.65,Operativo,2026-02,339.0
+59,2026-01-17,CEX-21,iTrack II,Comunicacion,2.89,Operativo,2026-01,173.4
+60,2026-03-29,CEX-53,CAS-GPS,Alimentacion,4.62,Operativo,2026-03,277.2
+61,2026-03-18,CEX-53,CAS-GPS,Alimentacion,3.35,Operativo,2026-03,201.0
+62,2026-02-12,CEX-35,CAS-GPS,Alimentacion,4.14,Operativo,2026-02,248.39999999999998
+63,2026-02-06,CEX-35,LTE/WiFi,Comunicacion,4.61,Operativo,2026-02,276.6
+64,2026-02-04,CEX-35,CAS-GPS,Alimentacion,1.83,Operativo,2026-02,109.80000000000001
+65,2026-01-03,CEX-21,CAS-GPS,Alimentacion,1.34,Operativo,2026-01,80.4
+66,2026-03-09,CEX-21,Optalert,Conexion,5.31,Operativo,2026-03,318.59999999999997
+67,2026-01-05,CEX-21,Optalert,Sensor,4.78,Operativo,2026-01,286.8
+68,2026-01-29,CEX-53,Optalert,Conexion,1.29,Operativo,2026-01,77.4
+69,2026-03-26,CEX-21,CAS-GPS,Comunicacion,1.23,Operativo,2026-03,73.8
+70,2026-01-02,CEX-18,LTE/WiFi,Comunicacion,3.28,Operativo,2026-01,196.79999999999998
+71,2026-03-25,CEX-18,LTE/WiFi,Conexion,1.6,Operativo,2026-03,96.0
+72,2026-03-19,CEX-53,CAS-GPS,Conexion,4.56,Operativo,2026-03,273.59999999999997
+73,2026-03-16,CEX-21,Optalert,Comunicacion,5.6,Operativo,2026-03,336.0
+74,2026-01-08,CEX-35,LTE/WiFi,Sensor,3.19,Operativo,2026-01,191.4
+75,2026-02-15,CEX-18,Optalert,Alimentacion,2.08,Operativo,2026-02,124.80000000000001
+76,2026-03-28,CEX-53,Optalert,Comunicacion,3.55,Operativo,2026-03,213.0
+77,2026-01-14,CEX-18,LTE/WiFi,Comunicacion,1.27,Operativo,2026-01,76.2
+78,2026-03-09,CEX-42,CAS-GPS,Alimentacion,3.78,Operativo,2026-03,226.79999999999998
+79,2026-01-17,CEX-53,iTrack II,Alimentacion,3.07,Operativo,2026-01,184.2
+80,2026-02-27,CEX-18,LTE/WiFi,Comunicacion,1.1,Operativo,2026-02,66.0
+81,2026-01-26,CEX-53,Optalert,Alimentacion,1.78,Operativo,2026-01,106.8
+82,2026-01-31,CEX-42,LTE/WiFi,Conexion,5.27,Operativo,2026-01,316.2
+83,2026-03-09,CEX-18,Optalert,Sensor,2.56,Operativo,2026-03,153.6
+84,2026-03-25,CEX-42,CAS-GPS,Conexion,5.27,Operativo,2026-03,316.2
+85,2026-01-25,CEX-42,iTrack II,Comunicacion,1.8,Operativo,2026-01,108.0
+86,2026-03-31,CEX-18,LTE/WiFi,Alimentacion,1.08,Operativo,2026-03,64.80000000000001
+87,2026-03-21,CEX-21,Optalert,Conexion,1.3,Operativo,2026-03,78.0
+88,2026-01-18,CEX-53,Optalert,Sensor,1.29,Operativo,2026-01,77.4
+89,2026-03-24,CEX-53,iTrack II,Comunicacion,2.07,Operativo,2026-03,124.19999999999999
+90,2026-02-21,CEX-21,Optalert,Comunicacion,0.62,Operativo,2026-02,37.2
+91,2026-03-05,CEX-21,CAS-GPS,Comunicacion,0.79,Operativo,2026-03,47.400000000000006
+92,2026-02-08,CEX-42,iTrack II,Conexion,2.66,Operativo,2026-02,159.60000000000002
+93,2026-03-16,CEX-35,LTE/WiFi,Conexion,5.31,Operativo,2026-03,318.59999999999997
+94,2026-03-13,CEX-53,iTrack II,Comunicacion,1.5,Operativo,2026-03,90.0
+95,2026-03-22,CEX-35,CAS-GPS,Comunicacion,3.64,Operativo,2026-03,218.4
+96,2026-03-27,CEX-42,Optalert,Comunicacion,2.55,Operativo,2026-03,153.0
+97,2026-03-25,CEX-42,LTE/WiFi,Comunicacion,5.08,Operativo,2026-03,304.8
+98,2026-01-10,CEX-21,Optalert,Alimentacion,1.05,Operativo,2026-01,63.0
+99,2026-03-17,CEX-53,LTE/WiFi,Alimentacion,5.89,Operativo,2026-03,353.4
+100,2026-01-29,CEX-53,iTrack II,Alimentacion,4.03,Operativo,2026-01,241.8
+101,2026-02-25,CEX-18,iTrack II,Comunicacion,3.45,Operativo,2026-02,207.0
+102,2026-01-30,CEX-42,LTE/WiFi,Alimentacion,3.05,Operativo,2026-01,183.0
+103,2026-03-12,CEX-35,iTrack II,Conexion,1.97,Operativo,2026-03,118.2
+104,2026-01-06,CEX-21,Optalert,Sensor,2.79,Operativo,2026-01,167.4
+105,2026-02-24,CEX-35,Optalert,Sensor,2.52,Operativo,2026-02,151.2
+106,2026-03-08,CEX-35,Optalert,Sensor,4.27,Operativo,2026-03,256.2
+107,2026-01-22,CEX-35,LTE/WiFi,Alimentacion,5.54,Operativo,2026-01,332.4
+108,2026-03-18,CEX-42,LTE/WiFi,Sensor,3.44,Operativo,2026-03,206.4
+109,2026-03-28,CEX-53,Optalert,Conexion,4.92,Operativo,2026-03,295.2
+110,2026-02-19,CEX-42,LTE/WiFi,Conexion,2.08,Operativo,2026-02,124.80000000000001
+111,2026-01-16,CEX-18,CAS-GPS,Comunicacion,4.32,Operativo,2026-01,259.20000000000005
+112,2026-02-15,CEX-53,LTE/WiFi,Comunicacion,3.88,Operativo,2026-02,232.79999999999998
+113,2026-02-27,CEX-21,iTrack II,Conexion,0.96,Operativo,2026-02,57.599999999999994
+114,2026-02-17,CEX-53,iTrack II,Comunicacion,5.77,Operativo,2026-02,346.2
+115,2026-01-16,CEX-53,Optalert,Conexion,4.8,Operativo,2026-01,288.0
+116,2026-03-31,CEX-18,LTE/WiFi,Alimentacion,1.89,Operativo,2026-03,113.39999999999999
+117,2026-03-06,CEX-42,CAS-GPS,Comunicacion,3.89,Operativo,2026-03,233.4
+118,2026-01-16,CEX-21,CAS-GPS,Conexion,3.65,Operativo,2026-01,219.0
+119,2026-02-12,CEX-42,iTrack II,Conexion,4.7,Operativo,2026-02,282.0
+120,2026-03-24,CEX-18,iTrack II,Sensor,3.8,Operativo,2026-03,228.0
+121,2026-01-13,CEX-53,LTE/WiFi,Comunicacion,1.14,Operativo,2026-01,68.39999999999999
+122,2026-03-06,CEX-21,Optalert,Conexion,2.8,Operativo,2026-03,168.0
+123,2026-03-24,CEX-18,CAS-GPS,Conexion,2.34,Operativo,2026-03,140.39999999999998
+124,2026-03-08,CEX-53,LTE/WiFi,Alimentacion,1.99,Operativo,2026-03,119.4
+125,2026-03-13,CEX-35,iTrack II,Sensor,1.37,Operativo,2026-03,82.2
+126,2026-03-28,CEX-21,CAS-GPS,Alimentacion,2.91,Operativo,2026-03,174.60000000000002
+127,2026-03-08,CEX-35,CAS-GPS,Conexion,3.54,Operativo,2026-03,212.4
+128,2026-03-27,CEX-53,Optalert,Alimentacion,3.14,Operativo,2026-03,188.4
+129,2026-01-13,CEX-35,iTrack II,Alimentacion,4.45,Operativo,2026-01,267.0
+130,2026-03-18,CEX-53,Optalert,Comunicacion,5.18,Operativo,2026-03,310.79999999999995
+131,2026-03-21,CEX-18,CAS-GPS,Comunicacion,3.74,Operativo,2026-03,224.4
+132,2026-01-03,CEX-18,iTrack II,Comunicacion,3.0,Operativo,2026-01,180.0
+133,2026-03-07,CEX-53,Optalert,Sensor,3.02,Operativo,2026-03,181.2
+134,2026-01-29,CEX-42,CAS-GPS,Sensor,5.55,Operativo,2026-01,333.0
+135,2026-03-08,CEX-18,iTrack II,Comunicacion,5.98,Operativo,2026-03,358.8
+136,2026-01-04,CEX-53,iTrack II,Sensor,5.1,Operativo,2026-01,306.0
+137,2026-01-04,CEX-21,iTrack II,Alimentacion,4.16,Operativo,2026-01,249.60000000000002
+138,2026-01-13,CEX-18,iTrack II,Comunicacion,5.43,Operativo,2026-01,325.79999999999995
+139,2026-03-19,CEX-21,CAS-GPS,Comunicacion,1.29,Operativo,2026-03,77.4
+140,2026-03-18,CEX-18,LTE/WiFi,Comunicacion,5.51,Operativo,2026-03,330.59999999999997
+141,2026-01-27,CEX-18,LTE/WiFi,Comunicacion,0.53,Operativo,2026-01,31.8
+142,2026-01-15,CEX-21,LTE/WiFi,Conexion,4.91,Operativo,2026-01,294.6
+143,2026-03-28,CEX-35,Optalert,Alimentacion,0.81,Operativo,2026-03,48.6
+144,2026-03-02,CEX-53,LTE/WiFi,Alimentacion,4.75,Operativo,2026-03,285.0
+145,2026-03-18,CEX-18,LTE/WiFi,Alimentacion,0.72,Operativo,2026-03,43.199999999999996
+146,2026-02-11,CEX-35,CAS-GPS,Comunicacion,3.27,Operativo,2026-02,196.2
+147,2026-02-18,CEX-18,iTrack II,Conexion,5.18,Operativo,2026-02,310.79999999999995
+148,2026-02-10,CEX-21,LTE/WiFi,Conexion,1.56,Operativo,2026-02,93.60000000000001
+149,2026-01-02,CEX-35,CAS-GPS,Conexion,5.89,Operativo,2026-01,353.4
+150,2026-03-09,CEX-18,iTrack II,Comunicacion,3.89,Operativo,2026-03,233.4
+151,2026-01-01,CEX-21,CAS-GPS,Alimentacion,4.4,Operativo,2026-01,264.0
+152,2026-02-07,CEX-21,Optalert,Comunicacion,1.51,Operativo,2026-02,90.6
+153,2026-02-03,CEX-53,iTrack II,Sensor,4.81,Operativo,2026-02,288.59999999999997
+154,2026-01-23,CEX-18,LTE/WiFi,Conexion,1.3,Operativo,2026-01,78.0
+155,2026-01-23,CEX-53,iTrack II,Sensor,3.68,Operativo,2026-01,220.8
+156,2026-02-18,CEX-18,Optalert,Conexion,5.67,Operativo,2026-02,340.2
+157,2026-01-15,CEX-21,Optalert,Conexion,2.72,Operativo,2026-01,163.20000000000002
