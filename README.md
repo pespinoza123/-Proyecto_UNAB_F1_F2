@@ -593,4 +593,4 @@ Universidad Andrés Bello (UNAB)
 
 **Proyecto Final Integrador – Programación para la Ciencia de Datos – 2026**
 
-Ahora haz esto
+
