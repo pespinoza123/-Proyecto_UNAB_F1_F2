@@ -1,0 +1,81 @@
+{
+  "registros_aceptados": 156,
+  "conteos": {
+    "LTE/WiFi": 41,
+    "Optalert": 40,
+    "CAS-GPS": 39,
+    "iTrack II": 36
+  },
+  "promedio_h": {
+    "iTrack II": 3.472,
+    "CAS-GPS": 3.261,
+    "Optalert": 3.233,
+    "LTE/WiFi": 3.129
+  },
+  "mediana_global_h": NaN,
+  "benchmark": [
+    {
+      "n": 20,
+      "algoritmo": "Iterativo",
+      "microsegundos": 1.514749999387277
+    },
+    {
+      "n": 20,
+      "algoritmo": "Recursivo",
+      "microsegundos": 10.847400005786767
+    },
+    {
+      "n": 20,
+      "algoritmo": "Vectorizado",
+      "microsegundos": 0.9690000069895176
+    },
+    {
+      "n": 50,
+      "algoritmo": "Iterativo",
+      "microsegundos": 2.9820500003552297
+    },
+    {
+      "n": 50,
+      "algoritmo": "Recursivo",
+      "microsegundos": 28.87565000264658
+    },
+    {
+      "n": 50,
+      "algoritmo": "Vectorizado",
+      "microsegundos": 0.9875000046122295
+    },
+    {
+      "n": 100,
+      "algoritmo": "Iterativo",
+      "microsegundos": 5.059650004568539
+    },
+    {
+      "n": 100,
+      "algoritmo": "Recursivo",
+      "microsegundos": 65.16895000459044
+    },
+    {
+      "n": 100,
+      "algoritmo": "Vectorizado",
+      "microsegundos": 1.0105000001203734
+    },
+    {
+      "n": 156,
+      "algoritmo": "Iterativo",
+      "microsegundos": 12.76624999491105
+    },
+    {
+      "n": 156,
+      "algoritmo": "Recursivo",
+      "microsegundos": 94.32300000753457
+    },
+    {
+      "n": 156,
+      "algoritmo": "Vectorizado",
+      "microsegundos": 1.0340500011807308
+    }
+  ],
+  "python": "3.13.5",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5"
+}
