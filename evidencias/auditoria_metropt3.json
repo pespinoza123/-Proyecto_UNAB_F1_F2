@@ -1,0 +1,37 @@
+{
+  "archivo": "MetroPT3(AirCompressor).csv",
+  "registros": 1516948,
+  "columnas": 17,
+  "nulos_por_columna": {
+    "Unnamed: 0": 0,
+    "timestamp": 0,
+    "TP2": 0,
+    "TP3": 0,
+    "H1": 0,
+    "DV_pressure": 0,
+    "Reservoirs": 0,
+    "Oil_temperature": 0,
+    "Motor_current": 0,
+    "COMP": 0,
+    "DV_eletric": 0,
+    "Towers": 0,
+    "MPG": 0,
+    "LPS": 0,
+    "Pressure_switch": 0,
+    "Oil_level": 0,
+    "Caudal_impulses": 0
+  },
+  "total_celdas_nulas": 0,
+  "filas_con_algun_nulo": 0,
+  "filas_duplicadas_exactas": 0,
+  "fechas_invalidas": 0,
+  "timestamps_duplicados": 0,
+  "saltos_temporales_hacia_atras": 0,
+  "fecha_minima": "2020-02-01 00:00:00",
+  "fecha_maxima": "2020-09-01 03:59:50",
+  "versiones": {
+    "python": "3.14.2",
+    "pandas": "3.0.2",
+    "numpy": "2.4.6"
+  }
+}
